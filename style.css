@@ -22,3 +22,8 @@ body {
   margin: 1rem auto;
   display: inline-block;     
 }
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
+}
